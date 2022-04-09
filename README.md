@@ -1,0 +1,3 @@
+- 👋 Hi, I’m omar lachhab
+- 👀 I’m interested in game dev and mobile app
+- 🌱 I’m currently learning flutter
